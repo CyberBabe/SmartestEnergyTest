@@ -1,0 +1,8 @@
+*
+*
+*Imbalance Prices Service For Balancing (B1770) Data
+*
+*DocumentID,DocumentRevNum,ActiveFlag,ProcessType,DocumentType,Resolution,CurveType,PriceCategory,ImbalancePriceAmount,SettlementPeriod,SettlementDate,ControlArea,BusinessType,TimeSeriesID,DocumentStatus
+ELX-EMFIP-IMBP-34891015,1,Y,Realised,Imbalance prices,PT30M,Sequential fixed size block,Insufficient balance,70.1,2,2023-08-23,10YGB----------A,Balance energy deviation,ELX-EMFIP-IMBP-TS-1,Final
+ELX-EMFIP-IMBP-34891015,1,Y,Realised,Imbalance prices,PT30M,Sequential fixed size block,Excess balance,70.1,2,2023-08-23,10YGB----------A,Balance energy deviation,ELX-EMFIP-IMBP-TS-2,Final
+<EOF>
